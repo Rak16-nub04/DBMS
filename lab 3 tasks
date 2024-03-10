@@ -1,0 +1,6 @@
+Task 1: select * from employees
+
+Task 2: SELECT name FROM `employees` WHERE department="Finance"
+
+Task 3: SELECT * FROM `employees` WHERE department="HR" and salary>=10000 and salary<=2000
+
